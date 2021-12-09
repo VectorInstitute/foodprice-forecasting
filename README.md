@@ -1,6 +1,6 @@
 # foodprice-forecasting
 
-University of Guelph and Vector Institute contribution to the [Canada's Food Price Report](https://www.dal.ca/sites/agri-food/research/canada-s-food-price-report-2022.html). 
+University of Guelph and Vector Institute contribution to the [2022 Edition of Canada's Food Price Report](https://www.dal.ca/sites/agri-food/research/canada-s-food-price-report-2022.html). 
 
 This repository can be used to replicate the experiments described on pages 16 and 17 of the report, under the header *Mixed Ensembles of Machine Learning Models*. Instructions for replicating the forecasts and analysis is below. 
 
