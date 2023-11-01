@@ -7,3 +7,4 @@ matplotlib
 scikit-learn
 torch==1.10.0
 neuralprophet==0.3.0
+prophet==1.0.1
