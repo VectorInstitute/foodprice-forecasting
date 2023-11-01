@@ -1,0 +1,6 @@
+**/__pycache__
+.env
+**/data_files
+**/datasets
+**/statscan_data
+**/.conda
